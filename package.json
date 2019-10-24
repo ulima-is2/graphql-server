@@ -1,0 +1,22 @@
+{
+  "name": "graphql_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.11.6",
+    "graphql-yoga": "^1.18.3",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "@types/ws": "^6.0.3",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^0.17.5"
+  }
+}
